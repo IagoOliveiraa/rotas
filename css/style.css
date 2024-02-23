@@ -1,0 +1,203 @@
+*{
+    font-family: 'VT323', monospace;
+    box-sizing: border-box;
+    padding: 0 auto;
+}
+
+
+/* aqui começa a primeira barra */
+.barra1{
+    background-color: #0D4373;
+    margin-top: -25px;
+    height: 50px;
+    margin-right: -8px;
+    margin-left: -8px;
+    display: flex;
+    max-width: 102%;
+}
+.barra1 h2{
+    color: white;
+    margin-left: 10px;
+    
+}
+
+.barra1 .pacman{
+   width: 50px;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.barra1 .coin{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.barra1 .hollow{
+    width: 35px;
+    height: 34px;
+    margin-top: 17px;
+    margin-left: 300px;
+}
+
+.barra1 h3{
+color: #ffff;
+}
+
+.barra1 .home{
+    margin-left: 390px;
+    margin-top: 25px;
+}
+
+.barra1 .sobre{
+    margin-left: 470px;
+    margin-top: -37px;
+}
+
+.barra1 .contato{
+    margin-left: 550px;
+    margin-top: -37px;
+}
+
+.letraC{
+    color: #1E82D9;
+}
+/* aqui termina segunda barra */
+
+/* aqui começa a barra 2<3 */
+
+.barra2 h3{
+    color: white;
+}
+.pesquisar{
+background-color: #E8D1E8;
+margin-top: 20px;
+margin-left: 10px;
+width: 150px;
+}
+
+.barra2{
+    background-color: #032973;
+    margin-right: -8px;
+    margin-left: -8px;
+    display: flex;
+    height: 60px;
+}
+
+.barra2 .esports{
+    margin-left: 100px;
+}
+
+.barra2 .games{
+    margin-left: 40px;
+}
+
+.barra2 .animes{
+    margin-left: 40px;
+}
+
+.barra2 .series{
+    margin-left: 40px;
+}
+
+.barra2 .rpg{
+    margin-left: 40px;
+}
+
+.user{
+    width: 40px;
+    height: 40px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+.carrinho{
+    width: 35px;
+    height: 35px;
+    margin-left: -88px;
+    margin-top: 13px;
+}
+
+.compras{
+    display: flex;
+    align-items: center ;
+    text-align: center;
+}
+
+.produtos img{
+    margin-top: 60px;
+}
+
+.produto1{
+margin-left: 170px;
+}
+
+.produto2{
+    margin-left: 100px;
+}
+
+.produto3{
+    margin-left: 100px;
+}
+
+.camisa1{
+    width: 200px;
+    margin-left: 20px;
+}
+
+.camisa2{
+    margin-left: 40px;
+    width: 200px;
+}
+
+.camisa3{
+    margin-left: 40px;
+    width: 200px;
+}
+
+.linha1{
+    margin-top: 90px;
+    width: 2px;
+    height: 300px;
+    background-color: black;
+    margin-left: 160px;
+    display: flex;
+}
+
+.linha2{
+    margin-top: 90px;
+    width: 2px;
+    height: 300px;
+    background-color: black;
+    margin-left: 90px;
+    display: flex;
+}
+
+.linha3{
+    margin-top: 90px;
+    width: 2px;
+    height: 300px;
+    background-color: black;
+    margin-left: 90px;
+    display: flex;
+}
+
+.linha4{
+    margin-top: 90px;
+    width: 2px;
+    height: 300px;
+    background-color: black;
+    margin-left: 90px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
